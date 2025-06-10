@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nikolenkoyaroslav34/nikolenkoyaroslav34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -118,5 +116,33 @@ _I am open to new opportunities/contributions._
 * <span title="I like">❤️</span>: <span title="programming">💻</span> <span title="photography">📷</span> <span title="traveling">🚗</span> <span title="jogging">🏃</span> <span title="melody writing">🎵</span> <span title="good UX and UI">🌻</span>
 
 ---
+
+
+```TypeScript
+// Check if the code is functioning correctly
+
+// Let's ensure the code is the epitome of excellence
+if (isCodeWorking) {
+    console.log("✨ Code works! Time to polish it until it shines.");
+    // Perfection is our destination, so onward we go!
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment the code quality score
+        console.log(`Improving... Code quality now at ${codeQuality}.`);
+    }
+    console.log("🏆 Code has reached perfection!");
+}
+
+// The cycle of life: eat, sleep, repeat
+while (alive) {
+    eat();
+    sleep();
+    console.log("Repeat! Because life is a loop. 🍕💤🔁");
+}
+
+// - Yaroslav Nikolenko
+```
+
+---
+
 
 ## Thanks for visiting
